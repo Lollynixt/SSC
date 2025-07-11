@@ -8,10 +8,18 @@ dic = dic.dropna()
 
 dic = pd.DataFrame(dic)
 
-print(dic.to_string())
+#print(dic.to_string()) test to see table import
 
-dic_group = dic['Megastructure']
+dic_group = dic['Megastructure'] #selecting only megastructures for menu
 
-dic_group = dic['Megastructure'].drop_duplicates()
+menu = dic_group = dic['Megastructure'].drop_duplicates().reset_index(drop=True) #removing dupes
 
-print(dic_group)
+print(pd.DataFrame(menu.columns))
+
+#print(menu['Megastructure'].to_list())
+
+menu_choice = input('Which structure 0\\1\\2\\3: ')
+
+
+
+
