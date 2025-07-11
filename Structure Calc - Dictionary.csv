@@ -1,0 +1,60 @@
+Megastructure,Tier,SubTypeId,ProductionMode,ProductionAmount,ProductionType,Upkeep,UpkeepType,Count,Count
+Arc Furnace,Tier 1,1,Percentage Increase,25,Mining Output,-20,Energy Credits,0,0
+Arc Furnace,Tier 1,2,Added,1,Minerals Available,0,Energy Credits,0,1
+Arc Furnace,Tier 2,1,Percentage Increase,50,Mining Output,-40,Energy Credits,0,2
+Arc Furnace,Tier 2,2,Added,2,Minerals Available,0,Energy Credits,0,3
+Arc Furnace,Tier 3,1,Percentage Increase,75,Mining Output,-80,Energy Credits,0,4
+Arc Furnace,Tier 3,2,Added,1,Alloys Available,0,Energy Credits,0,5
+Arc Furnace,Tier 3,2,Added,2,Minerals Available,0,Energy Credits,0,6
+Arc Furnace,Tier 4,1,Percentage Increase,100,Mining Output,-100,Energy Credits,0,7
+Arc Furnace,Tier 4,2,Added,2,Alloys Available,0,Energy Credits,0,8
+Arc Furnace,Tier 4,2,Added,1,Minerals Available,0,Energy Credits,0,9
+Dyson Sphere,Tier 1,1,Percentage Increase,0,Energy Credits,0,N/A,0,10
+Dyson Sphere,Tier 2,1,Percentage Increase,1000,Energy Credits,0,N/A,0,11
+Dyson Sphere,Tier 3,2,Added,2000,Energy Credits,0,N/A,0,12
+Dyson Sphere,Tier 4,2,Added,3000,Energy Credits,0,N/A,0,13
+Dyson Sphere,Tier 5,2,Added,4000,Energy Credits,0,N/A,0,14
+Dyson Swarm ,Tier 1,1,Percentage Increase,500,Energy Credits,-5,Alloys,0,15
+Dyson Swarm ,Tier 2,1,Percentage Increase,1500,Energy Credits,-10,Alloys,0,16
+Dyson Swarm ,Tier 3,1,Percentage Increase,3000,Energy Credits,-20,Alloys,0,17
+Matter Decompressor,Tier 1,2,Added,500,Minerals,-25,Energy Credits,0,18
+Matter Decompressor,Tier 2,2,Added,1000,Minerals,-50,Energy Credits,0,19
+Matter Decompressor,Tier 3,2,Added,1500,Minerals,-75,Energy Credits,0,20
+Matter Decompressor,Tier 4,2,Added,2000,Minerals,-100,Energy Credits,0,
+Mega Shipyard,Tier 1,1,Percentage Increase,33,Ship Build Speed,0,Energy Credits,0,
+Mega Shipyard,Tier 1,2,Added,5,Shipyard Capacity,-10,Energy Credits,0,
+Mega Shipyard,Tier 2,1,Percentage Increase,66,Ship Build Speed,0,Energy Credits,0,
+Mega Shipyard,Tier 2,2,Added,10,Shipyard Capacity,-20,Energy Credits,0,
+Mega Shipyard,Tier 3,1,Percentage Increase,100,Ship Build Speed,0,Energy Credits,0,
+Mega Shipyard,Tier 3,2,Added,20,Shipyard Capacity,-40,Energy Credits,0,
+N/A,Tier 0,2,Added,0,N/A,0,N/A,0,
+Tier,TierId,,,,,,,,
+Tier 0,0,,,,,,,,
+Tier 1,1,,,,,,,,
+Tier 2,2,,,,,,,,
+Tier 3,3,,,,,,,,
+Tier 4,4,,,,,,,,
+Tier 1,1,,,,,,,,
+Tier 2,2,,,,,,,,
+Tier 3,3,,,,,,,,
+Tier 1,1,,,,,,,,
+Tier 2,2,,,,,,,,
+Tier 3,3,,,,,,,,
+Tier 1,1,,,,,,,,
+Tier 2,2,,,,,,,,
+Tier 3,3,,,,,,,,
+Tier 4,4,,,,,,,,
+Tier 1,1,,,,,,,,
+Tier 2,2,,,,,,,,
+Tier 3,3,,,,,,,,
+Tier 3,3,,,,,,,,
+Tier 4,4,,,,,,,,
+Tier 4,4,,,,,,,,
+Tier 1,1,,,,,,,,
+Tier 2,2,,,,,,,,
+Tier 3,3,,,,,,,,
+Tier 1,1,,,,,,,,
+Tier 2,2,,,,,,,,
+Tier 3,3,,,,,,,,
+Tier 4,4,,,,,,,,
+Tier 5,5,,,,,,,,
