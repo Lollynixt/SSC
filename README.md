@@ -1,5 +1,5 @@
 # SSC (Stellaris Structure Calculator)
-I'm tired of not know what's happening to my Empire's Economy. And I'm too tired to use my brain.
+I'm tired of not knowing what's happening to my Empire's Economy. And I'm too tired to use my brain.
 
 This is a WIP that started on an Google Sheets workbook. But it couldn't handle/have the formulas I needed to use. Hence this. 
 
